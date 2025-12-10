@@ -1,3 +1,5 @@
+package Project;
+
 class QuickSort
 {
     int partition(int a[], int low, int high)
