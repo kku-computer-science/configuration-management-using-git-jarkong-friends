@@ -8,5 +8,5 @@ Members:<br>
 2.<b>ปัญญา</b> ทำการสร้าง function BubbleSort ลงใน Project แล้ว push ไปที่ branch Panya_2178<br>
 3.<b>เจษฎา</b> ทำการสร้าง function QuickSort ลงใน Project แล้ว push ไปที่ branch Chetsada_2487<br>
 4.<b>ปวริศ</b> ทำการสร้างตัวรับ input ค่าและตัวเลือกสำหรับเลือกใช้ sort ต่างๆ ลงใน Project แล้ว push ไปที่ branch Pavarit_0192<br>
-5.ทุกคนตรวจเช็คความถูกต้องแล้วทำการ merge จาก branch ของตัวเองเข้าสู่ main<br>
-6.ทำการ Push เข้าสู่ main<br>
+5.<b>ปวริศ</b> ตรวจเช็คความถูกต้องแล้วทำการ merge แต่ละ branch เข้าสู่ main branch<br>
+
